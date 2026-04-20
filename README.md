@@ -129,6 +129,8 @@ Balance {
 ## 🔗 Contract Address
 
 CCCQJ3X67EAQWGAPICI5GALWMMM4EHTD4PWQNILDACZBO2WPXMV3GIF7
+<img width="2879" height="1701" alt="image" src="https://github.com/user-attachments/assets/f05f502b-43d5-406e-9fa8-b331ee20238a" />
+
 
 ---
 
